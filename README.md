@@ -3,7 +3,8 @@
 Dehong Lu
 
 Import the necessary packages using the following codes:
-`import pandas as pd
+'''
+import pandas as pd
 import numpy as np
 from collections import Counter
 import re
@@ -20,4 +21,5 @@ from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.feature_selection import SelectKBest, f_regression
 from sklearn import preprocessing
 
-from sklearn.pipeline import make_pipeline`
+from sklearn.pipeline import make_pipeline
+'''
