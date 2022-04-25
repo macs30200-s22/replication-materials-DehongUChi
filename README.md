@@ -3,7 +3,8 @@
 Dehong Lu
 
 Import the necessary packages using the following codes:
-'''
+
+```
 import pandas as pd
 import numpy as np
 from collections import Counter
@@ -22,4 +23,4 @@ from sklearn.feature_selection import SelectKBest, f_regression
 from sklearn import preprocessing
 
 from sklearn.pipeline import make_pipeline
-'''
+```
