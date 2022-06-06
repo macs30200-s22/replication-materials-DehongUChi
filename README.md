@@ -15,16 +15,16 @@ However, since building random forest models takes a long time, it is suggested 
 All of the data are located in the repository
 
 Some of the graphs are created using Excel, open results graph.xlsx to access all of the graphs, click on the tab in the bottom of the excel to switch between graphs of models using the top 50 search terms and graphs of models using search topics. 
+  
+All of the codes are written in python 3.8.5.  
+The version number of all required pakcages:  
+Pandas: 1.2.4  
+Numpy: 1.20.1  
+Sklearn: 1.0.2  
+Seaborn: 0.11.1  
+matplotlib: 3.3.4  
 
-All of the codes are written in python 3.8.5. 
-The version number of all required pakcages: 
-Pandas: 1.2.4
-Numpy: 1.20.1
-Sklearn: 1.0.2
-Seaborn: 0.11.1
-matplotlib: 3.3.4
-
-How to Cite:
+How to Cite:  
 
 ```
 @software{DehongUChi,
