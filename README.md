@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/484103277.svg)](https://zenodo.org/badge/latestdoi/484103277)
 
-**Examining the Predictive Power of Google Trends Data for Economic Indicators**  
+<hx>**Examining the Predictive Power of Google Trends Data for Economic Indicators**  </hx>
 Dehong Lu
 
 **Abstract**  
