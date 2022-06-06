@@ -20,7 +20,7 @@ matplotlib: 3.3.4
 
 How to Cite:
 
-'''
+```
 @software{DehongUChi,
   author       = {Dehong Lu},
   title        = {macs30200-s22/replication-materials-DehongUChi},
@@ -31,4 +31,4 @@ How to Cite:
   howpublished = {\url{https://github.com/macs30200-s22/replication-materials-DehongUChi}},
   commit       = {}
 }
-'''
+```
